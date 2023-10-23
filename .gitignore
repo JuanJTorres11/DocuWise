@@ -170,3 +170,12 @@ dist
 
 .dev.vars
 .wrangler/
+
+# Static files
+
+*.pdf
+
+# Python venv  
+
+.venv/
+venv/
