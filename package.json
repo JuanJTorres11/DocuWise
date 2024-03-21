@@ -13,7 +13,7 @@
     "wrangler": "^3.0.0"
   },
   "dependencies": {
-    "@cloudflare/ai": "^1.0.22",
+    "@cloudflare/ai": "^1.0.53",
     "@pinecone-database/pinecone": "^1.1.1",
     "hono": "^3.8.2",
     "langchain": "^0.0.170",
