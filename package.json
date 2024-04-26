@@ -15,7 +15,7 @@
   "dependencies": {
     "@cloudflare/ai": "^1.0.22",
     "@pinecone-database/pinecone": "^1.1.1",
-    "hono": "^3.8.2",
+    "hono": "^3.11.7",
     "langchain": "^0.0.170",
     "pdf-parse": "^1.1.1",
     "twilio": "^4.19.0"
